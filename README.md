@@ -81,8 +81,11 @@ inputs.invoke({"question": "what is the full form of LCEL?"})
 
 ## OUTPUT
 Simple Chain 
+
 ![image](https://github.com/user-attachments/assets/3dbc3625-2dd7-4e4a-bf0f-f0e54b2cb2f8)
+
 Complex Chain
+
 ![image](https://github.com/user-attachments/assets/399ab412-d77a-475d-98dd-0ff7d7e34f0c)
 
 ### RESULT:
